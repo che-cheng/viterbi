@@ -1,0 +1,6 @@
+demo.o
+hmm.o
+simple_debug.o
+util.o
+viterbi_decoder.o
+viterbi_demo
